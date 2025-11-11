@@ -4,7 +4,7 @@
 - 👀 I’m currently working on API automation with Lugia Framework.
 - 🌱 I’m currently learning Java, Selenium and more on API Automation.
 - 📫 How to reach me janani49p@gmail.com
-- 🛄 Know about my experience https://www.linkedin.com/in/janani-palaniammal-082300158/ 
+- 🛄 Know about my experience https://www.linkedin.com/in/janani-palaniammal/
 - ⚡ Fun fact: Somewhere I feel that I'm progressing on my career goal.
 
 <!---
